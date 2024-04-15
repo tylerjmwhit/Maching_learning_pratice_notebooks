@@ -4,7 +4,7 @@ These are various mahcine learnings tasks I did for ES 514 at Sonoma State. They
 # Description of files
 ### Week 1 Lab
 - This code demonstrates proficiency in loading and visualizing the MNIST dataset using NumPy and Matplotlib, showcasing the average image of each digit. Additionally, it showcases the application of logistic regression for multi-class classification using the Iris dataset, evaluating precision, recall, and confusion matrix for each class.
-- 
+  
 ### Week 2 lab
 - The code loads three datasets: Iris, MNIST, and Titanic, performing basic exploratory data analysis tasks such as counting target classifications, plotting data points, handling missing values, and creating new columns based on existing data. It demonstrates skills in data loading, manipulation, visualization, and preprocessing.
 
