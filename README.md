@@ -25,16 +25,16 @@ These are various mahcine learnings tasks I did for ES 514 at Sonoma State. They
 - In Part 1, a Random Forest classifier was optimized using a grid search on the breast cancer dataset, yielding the best parameters with an accuracy of approximately 96.8%. In Part 2, individual classifiers (Random Forest, Decision Tree, and K-Nearest Neighbors) trained on the MNIST dataset achieved accuracies of around 96.9%, 87.7%, and 96.9% respectively. Combining their predictions with a hard voting classifier resulted in an accuracy of approximately 96.8%, outperforming any individual classifier.
   
 ### Week 11 lab 
--This code showcases proficiency in data preprocessing, dimensionality reduction with PCA and Incremental PCA, model evaluation, and data visualization, particularly in comparing the impact of dimensionality reduction on model accuracy for both the Titanic dataset and count vectorized movie reviews.
+- This code showcases proficiency in data preprocessing, dimensionality reduction with PCA and Incremental PCA, model evaluation, and data visualization, particularly in comparing the impact of dimensionality reduction on model accuracy for both the Titanic dataset and count vectorized movie reviews.
 
 ### Week 11 Assingment
--PCA was applied to facial keypoints images, retaining over 95% of the explained variance with 127 principal components. Evaluation showed that a feedforward neural network trained on the PCA-transformed dataset outperformed the model trained on the original dataset alone, as evidenced by a lower mean squared error.
+- PCA was applied to facial keypoints images, retaining over 95% of the explained variance with 127 principal components. Evaluation showed that a feedforward neural network trained on the PCA-transformed dataset outperformed the model trained on the original dataset alone, as evidenced by a lower mean squared error.
 
 ### Week 13 Assingment
--This code demonstrates proficiency in data preprocessing, clustering using KMeans, AgglomerativeClustering, and DBSCAN, model building with autoencoders, and image manipulation techniques like Gaussian blur. Additionally, it includes visualization skills to compare input and output images and assess model performance.
+- This code demonstrates proficiency in data preprocessing, clustering using KMeans, AgglomerativeClustering, and DBSCAN, model building with autoencoders, and image manipulation techniques like Gaussian blur. Additionally, it includes visualization skills to compare input and output images and assess model performance.
 
 ### Week 14 Lab
--This code segment mounts Google Drive, preprocesses a text corpus from Shakespeare's sonnets, creates an RNN model using Keras to predict the next character from the previous 20 letters, trains the model on the data, and generates new text based on the trained model. The generated text appears to be nonsensical, suggesting that the model may require further tuning, such as increasing network depth or training for more epochs, to produce meaningful results.
+- This code segment mounts Google Drive, preprocesses a text corpus from Shakespeare's sonnets, creates an RNN model using Keras to predict the next character from the previous 20 letters, trains the model on the data, and generates new text based on the trained model. The generated text appears to be nonsensical, suggesting that the model may require further tuning, such as increasing network depth or training for more epochs, to produce meaningful results.
 
 ### Week 14 Assingment
 - The code trains two recurrent neural network (RNN) models, one using a GRU cell and the other using an LSTM cell, on the MNIST dataset to classify handwritten digits. Both models achieve good accuracy, demonstrating proficiency in implementing RNN architectures for image classification tasks. Additionally, the code showcases preprocessing steps like one-hot encoding and visualizing the dataset.
